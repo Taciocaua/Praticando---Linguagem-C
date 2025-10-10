@@ -14,4 +14,4 @@ int main(){;
     printf("Sua idade e %d", idade);
 
     return 0;
-}//Fim do bloco.    
+}//Fim do bloco
