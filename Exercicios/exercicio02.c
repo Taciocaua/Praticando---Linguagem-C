@@ -1,4 +1,4 @@
-//2. Peça ao usuário para digitar três valores inteiros e imprima a soma deles ↓ 
+//Peça ao usuário para digitar três valores inteiros e imprima a soma deles ↓ 
 #include <stdio.h>
 //Declarando variáveis ↓   
 int main(){;

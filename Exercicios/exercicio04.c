@@ -1,4 +1,4 @@
-//1. Faça um programa que leia três valores e apresente como resultado a soma dos quadrados dos valores lidos ↓
+//Faça um programa que leia três valores e apresente como resultado a soma dos quadrados dos valores lidos ↓
 
 #include <stdio.h>
 
