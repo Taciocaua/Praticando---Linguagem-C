@@ -15,7 +15,6 @@ for(int i = 0; i < 5; i++){
 
 //Processamentos de dados ↓
 soma = soma + n;
-
 }
 //Saida de dados ↓
 printf("A soma dos numeros é %i",soma);
