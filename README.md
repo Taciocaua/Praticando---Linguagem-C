@@ -52,7 +52,7 @@ A pasta **Aulas concluidas** reúne os conteúdos desenvolvidos durante as aulas
 
 A pasta **Exercicios** contém atividades realizadas para praticar e reforçar os conceitos aprendidos.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 * C
 * Visual Studio Code
@@ -60,7 +60,7 @@ A pasta **Exercicios** contém atividades realizadas para praticar e reforçar o
 * Git
 * GitHub
 
-## 🚀 Como executar
+## Como executar
 
 Para executar os programas em C, é necessário ter um compilador instalado, como o **GCC**.
 
